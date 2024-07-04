@@ -9,3 +9,4 @@ if num == reverse:
     print(num, "is a palindrome")
 else:
     print(num, "is not a palindrome")
+
